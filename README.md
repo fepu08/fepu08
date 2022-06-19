@@ -1,6 +1,6 @@
 # Hi there 👋
 My name is ***Frank*** and I'm both a ***Computer Science*** student and a fulltime ***Junior Frontend Developer***.
-- 💼 I'm currently working with React.js Node.js and AWS
+- 💼 I'm currently working with Node.js and AWS
 
 <!--
 **fepu08/fepu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
