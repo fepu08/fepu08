@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is ***Frank*** and I'm both a ***Computer Science*** student and a fulltime ***Junior Frontend Developer***.
+My name is ***Frank*** and I'm a fulltime ***Software Developer***.
 - 💼 I'm currently working with Node.js and AWS
 
 <!--
