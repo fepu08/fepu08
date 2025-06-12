@@ -1,6 +1,6 @@
 # Hi there 👋
 My name is ***Frank*** and I'm a fulltime ***Software Developer***.
-- 💼 I'm currently working with Node.js and AWS
+- 💼 I'm currently working with Node.js, React, React Native and AWS
 
 <!--
 **fepu08/fepu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
