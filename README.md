@@ -1,6 +1,27 @@
 # Hi there 👋
-My name is ***Frank*** and I'm a fulltime ***Software Developer***.
-- 💼 I'm currently working with Node.js, React, React Native and AWS
+
+I'm **Ferenc**, a software engineer based in **Hungary**
+
+I primarily work on **full-stack development**, with a strong focus on:
+
+- **Node.js**
+- **TypeScript**
+- **React**
+- **React Native**
+- **AWS**
+
+### Current Interests 🚀
+
+Lately, I’ve been exploring and building around:
+
+- **System Design**
+- **AI Engineering**
+- **Data Science**
+- **AI Agents**
+- **Mobile Application Development**
+
+I enjoy learning new technologies, solving real-world problems, and continuously improving my craft.
+
 
 <!--
 **fepu08/fepu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
